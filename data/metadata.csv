@@ -1,0 +1,7 @@
+Sample ID,Condition,Replicate,Cell Line,Culture Type
+SRR26282776,Monoculture,1,PEO1,Monoculture
+SRR26282777,Monoculture,2,PEO1,Monoculture
+SRR26282778,Co-culture with PEO4,1,PEO1,Direct Co-culture
+SRR26282781,Co-culture with PEO4,2,PEO1,Direct Co-culture
+SRR26282782,Conditioned Media,1,PEO1,Conditioned Media
+SRR26282783,Conditioned Media,2,PEO1,Conditioned Media
